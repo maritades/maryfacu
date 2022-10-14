@@ -982,7 +982,7 @@ form {
   border-radius: 5px;
 }
 
-.botonenviar: :hover{
+.botonenviar :hover{
   background: #9bb5c7;
 }
 
